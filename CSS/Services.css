@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    height: 300vh;
+}
+#serviceOurService{
+    width: 100%;
+    height: 10vw;
+    position: relative;
+    top: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#ourServiceImgContainer{
+    width: 100%;
+    position: relative;
+    top: 140vh;
+}
+#TestimonialHeader{
+    position: relative;
+    top: 210vh; 
+}
+#Testimonial{
+    position: relative;
+    top: 220vh; 
+}

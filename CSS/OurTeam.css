@@ -1,0 +1,7 @@
+body{
+    height: 200vh;
+}
+#ourTeam{
+    position: relative;
+    top: 100vh;
+}
